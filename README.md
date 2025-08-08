@@ -16,5 +16,5 @@ Stay tuned — coursework drops will happen without warning.
 
 ---
 
-**Status:** ⚠️ Under construction  
+**Status:** Under construction  
 **Language:** Racket (DrRacket IDE) 
