@@ -13,3 +13,8 @@ Expect problem-solving patterns.
 Expect the occasional questionable comment.
 
 Stay tuned — coursework drops will happen without warning.
+
+---
+
+**Status:** ⚠️ Under construction  
+**Language:** Racket (DrRacket IDE) 
