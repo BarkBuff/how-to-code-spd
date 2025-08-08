@@ -1,0 +1,15 @@
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# DrRacket backups
+*.bak
+*.swp
+*.tmp
+*~
+
+# Compiled files
+compiled/
+
+# Logs
+*.log
